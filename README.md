@@ -1,13 +1,28 @@
-# Personal Strength Coach V2
+# Personal Strength Coach V3
 
-Upload the **contents of this folder** to the root of your GitHub repository. Existing files with the same names should be replaced.
+## Replace Version 2
+Upload all six files in this ZIP to the **root** of the same GitHub repository and replace the existing files:
+- `index.html`
+- `style.css`
+- `script.js`
+- `workouts.json`
+- `manifest.json`
+- `README.md`
 
-## Publish
-1. GitHub repository > Add file > Upload files.
-2. Upload `index.html`, `style.css`, `script.js`, `workouts.json`, and `manifest.json`.
-3. Commit changes.
-4. Settings > Pages > Deploy from a branch > `main` > `/(root)` > Save.
-5. After deployment, reload the Pages URL. On iPhone, Safari may show cached files; close the tab and reopen it, or add `?v=2` once to the end of the Pages URL.
+Commit the changes. Your existing GitHub Pages configuration can remain `main` and `/(root)`.
 
-## Privacy and backups
-Workout history is stored in Safari local storage on that device. Clearing Safari website data can erase it. Use **Data > Export backup** periodically. GitHub never receives workout entries.
+After GitHub Pages redeploys, open the Page URL with `?v=3` appended once to bypass Safari's old cache. Example: `your-pages-address/?v=3`.
+
+## Version 3
+- Today dashboard and next-workout rotation
+- One exercise at a time during active workouts
+- No history or recommendations on the active-workout screen
+- Auto-saved workout draft after every field change
+- Previous and next exercise controls
+- 90-second rest timer
+- Separate History, Progress, and Tips screens
+- Individual YouTube guidance search for every exercise
+- Local-only storage and JSON backup export
+
+## Important
+Saved Version 2 history does not automatically migrate because Version 3 uses a new storage structure. Entries are stored in Safari local storage. Clearing Safari website data may erase them, so export backups periodically.
