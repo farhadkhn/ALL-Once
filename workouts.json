@@ -1,0 +1,134 @@
+{
+  "A": [
+    [
+      "Goblet Squat",
+      3,
+      "8-12",
+      "25 lb dumbbell",
+      "goblet squat proper form"
+    ],
+    [
+      "Seated Chest Press",
+      3,
+      "8-10",
+      "Machine",
+      "seated machine chest press proper form"
+    ],
+    [
+      "Wide Lat Pulldown",
+      3,
+      "8-10",
+      "Machine",
+      "wide grip lat pulldown proper form"
+    ],
+    [
+      "Dumbbell Romanian Deadlift",
+      3,
+      "8-12",
+      "2 x 25 lb",
+      "dumbbell Romanian deadlift proper form"
+    ],
+    [
+      "Triceps Pushdown",
+      2,
+      "10-12",
+      "Machine",
+      "cable triceps pushdown proper form"
+    ],
+    [
+      "Plank",
+      3,
+      "30-45 sec",
+      "Bodyweight",
+      "forearm plank proper form"
+    ]
+  ],
+  "B": [
+    [
+      "Leg Extension",
+      3,
+      "10-12",
+      "Machine",
+      "machine leg extension proper form"
+    ],
+    [
+      "Incline Dumbbell Press",
+      3,
+      "8-12",
+      "12, 15, or 25 lb pair",
+      "incline dumbbell press proper form"
+    ],
+    [
+      "One-Arm Dumbbell Row",
+      3,
+      "8-12 each side",
+      "12, 15, or 25 lb",
+      "one arm dumbbell row proper form"
+    ],
+    [
+      "Dumbbell Shoulder Press",
+      3,
+      "8-12",
+      "12, 15, or 25 lb pair",
+      "seated dumbbell shoulder press proper form"
+    ],
+    [
+      "Seated Biceps Curl",
+      2,
+      "10-12",
+      "Machine",
+      "machine preacher curl proper form"
+    ],
+    [
+      "Side Plank",
+      3,
+      "20-40 sec each side",
+      "Bodyweight",
+      "side plank proper form"
+    ]
+  ],
+  "C": [
+    [
+      "Goblet Squat",
+      3,
+      "10-15",
+      "25 lb dumbbell",
+      "goblet squat proper form"
+    ],
+    [
+      "Pec Fly",
+      3,
+      "10-12",
+      "Machine",
+      "pec fly machine proper form"
+    ],
+    [
+      "Wide Lat Pulldown",
+      3,
+      "8-12",
+      "Machine",
+      "wide grip lat pulldown proper form"
+    ],
+    [
+      "Leg Kickback",
+      3,
+      "10-15 each side",
+      "Machine",
+      "cable glute kickback proper form"
+    ],
+    [
+      "Triceps Pushdown",
+      2,
+      "10-12",
+      "Machine",
+      "cable triceps pushdown proper form"
+    ],
+    [
+      "Farmer Carry",
+      3,
+      "30-60 sec",
+      "2 x 25 lb",
+      "dumbbell farmer carry proper form"
+    ]
+  ]
+}
